@@ -1,0 +1,23 @@
+# 엑셀 임시 잠금 파일
+~$*
+
+# 환경변수 / 비밀 정보
+.env
+.env.*
+*.key
+secrets.*
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 에디터 / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
